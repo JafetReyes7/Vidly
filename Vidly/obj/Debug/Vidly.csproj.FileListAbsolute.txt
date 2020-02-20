@@ -113,7 +113,6 @@ E:\Users\Boomr\Desktop\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
 E:\Users\Boomr\Desktop\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 E:\Users\Boomr\Desktop\Vidly\Vidly\bin\Microsoft.AI.Web.xml
 E:\Users\Boomr\Desktop\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Users\Boomr\Desktop\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 E:\Users\Boomr\Desktop\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 E:\Users\Boomr\Desktop\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 E:\Users\Boomr\Desktop\Vidly\Vidly\obj\Debug\Vidly.dll
