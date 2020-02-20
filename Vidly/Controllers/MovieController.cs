@@ -71,35 +71,6 @@ namespace Vidly.Controllers
 
         }
 
-        [Route("Customers/")]
-        public ActionResult Customers()
-        {
-            var customers = new List<Customer>
-            {
-                new Customer { Name = "John Doe", Id = 1},
-                new Customer { Name = "Jane Doe", Id = 2}
-            };
-            var viewModel = new RandomMovieViewModel
-            {
-                Customers = customers
-            };
-
-            return View(viewModel);
-
-        }
-        [Route("Customers/{id}")]
-        public ActionResult CustomerDetail(int id)
-        {
-            var customers = new List<Customer>
-            {
-                new Customer { Name = "John Doe", Id = 1},
-                new Customer { Name = "Jane Doe", Id = 2}
-            };
-            
-
-
-            return View(customers.Find(c => c.Id==id));
-
-        }
+        
     }
 }
